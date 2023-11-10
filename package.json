@@ -33,6 +33,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@supabase/supabase-js": "^2.38.4",
 		"svelte-hero-icons": "^5.0.0"
 	}
 }
